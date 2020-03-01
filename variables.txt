@@ -1,0 +1,9 @@
+var food = 'pizza';
+var isDelicious = true;
+food = 'burrito';
+var num2 = 42;
+var num7 = 84;
+var quotient = num7 / num2;
+var songs = ["Divided Sky", "Ghost", "Free", "Fly Famous Mockingbird"]
+songs.shift();
+food.length;
