@@ -1,0 +1,13 @@
+Object: jimTacoShack123
+Attributes:
+color = "green"
+numItems = 4
+menuItems = ["Taco", "Burrito", "Quesadilla", "Baked Fish"]
+isOpen = false
+
+Methods:
+changeColor: color = red
+addItem: numItems = 5, menuItems = ["Taco", "Burrito", "Quesadilla", "Baked Fish", "Chicken Wings"]
+removeItem: numItems = 3, menuItems = ["Taco", "Burrito", "Quesadilla"]
+open: isOpen = true
+close: isOpen = false
