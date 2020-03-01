@@ -1,0 +1,13 @@
+Class: Table
+
+Attributes:
+color (string)
+numSeats (integer)
+isClean (boolean)
+hasTablecloth (boolean)
+
+Methods:
+changeColor (changes color attribute)
+addSeat (changes numSeats)
+clean (changes isClean to true)
+addTablecloth (changes hasTablecloth to true)
