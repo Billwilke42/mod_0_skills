@@ -1,0 +1,15 @@
+Object: tableTwoJimsTacos
+
+Attributes
+
+color = "brown"
+numSeats = 4
+isClean = false
+hasTablecloth = false
+
+
+Methods:
+changeColor: color = "green"
+addSeat: numSeats = 5
+clean: isClean = true
+addTablecloth= hasTablecloth = true
