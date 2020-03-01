@@ -1,0 +1,14 @@
+Class: Menu
+
+Attributes:
+color (string)
+numItems (integer)
+menuItems (array)
+isOpen (boolean)
+
+Methods:
+changeColor (changes color attribute of menu)
+addItem (adds item to menu, changes numItems and menuItems)
+removeItem (removes item from menu, changes numItems and menuItems)
+open (changes isOpen to true)
+close (changes isOpen to false)
