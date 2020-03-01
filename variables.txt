@@ -1,6 +1,6 @@
-var food = 'pizza';
+var food = "pizza";
 var isDelicious = true;
-food = 'burrito';
+food = "burrito";
 var num2 = 42;
 var num7 = 84;
 var quotient = num7 / num2;
